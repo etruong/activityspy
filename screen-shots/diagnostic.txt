@@ -1,0 +1,55 @@
+--------- beginning of system
+--------- beginning of main
+I/MyActivity( 8632): onCreate event fired
+I/MyActivity( 8632): onStart event fired
+I/MyActivity( 8632): onResume event fired
+I/MyActivity( 8632): onPause event fired
+I/MyActivity( 8632): onStop event fired
+E/MyActivity( 8632): We're going down, Captain!
+I/MyActivity( 8705): onCreate event fired
+I/MyActivity( 8705): onStart event fired
+I/MyActivity( 8705): onResume event fired
+I/MyActivity( 8705): onPause event fired
+I/MyActivity( 8705): onStop event fired
+I/MyActivity( 8705): onRestart event fired
+I/MyActivity( 8705): onStart event fired
+I/MyActivity( 8705): onResume event fired
+I/MyActivity( 8705): onPause event fired
+I/MyActivity( 8705): onStop event fired
+E/MyActivity( 8705): We're going down, Captain!
+I/MyActivity( 8797): onCreate event fired
+I/MyActivity( 8797): onStart event fired
+I/MyActivity( 8797): onResume event fired
+I/MyActivity( 8876): onCreate event fired
+I/MyActivity( 8876): onStart event fired
+I/MyActivity( 8876): onResume event fired
+I/MyActivity( 8876): onPause event fired
+I/MyActivity( 8876): onStop event fired
+I/MyActivity( 8876): onRestart event fired
+I/MyActivity( 8876): onStart event fired
+I/MyActivity( 8876): onResume event fired
+I/MyActivity( 8876): onPause event fired
+I/MyActivity( 8876): onStop event fired
+I/MyActivity( 8969): onCreate event fired
+I/MyActivity( 8969): onStart event fired
+I/MyActivity( 8969): onResume event fired
+I/MyActivity( 8969): onPause event fired
+I/MyActivity( 8969): onStop event fired
+I/MyActivity( 8969): onRestart event fired
+I/MyActivity( 8969): onStart event fired
+I/MyActivity( 8969): onResume event fired
+I/MyActivity( 8969): onPause event fired
+I/MyActivity( 8969): onStop event fired
+I/MyActivity( 8969): onRestart event fired
+I/MyActivity( 8969): onStart event fired
+I/MyActivity( 8969): onResume event fired
+I/MyActivity( 9114): onCreate event fired
+I/MyActivity( 9114): onStart event fired
+I/MyActivity( 9114): onResume event fired
+I/MyActivity( 9114): onPause event fired
+I/MyActivity( 9114): onStop event fired
+I/MyActivity( 9114): onRestart event fired
+I/MyActivity( 9114): onStart event fired
+I/MyActivity( 9114): onResume event fired
+I/MyActivity( 9114): onPause event fired
+I/MyActivity( 9114): onStop event fired
